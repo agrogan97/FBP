@@ -20,3 +20,7 @@ To run a prediction, place an image of a face in the folder test_cases/, and cha
 
 Some pre-trained models are included in models/. Enjoy!
 
+NB: A primary aim of this project is to highlight how AI can be used for unethical uses, and it could be argued that enforcing subjective opinion on a 1B+ user-base is an example of this. Here we have a biased dataset, boiled down to represent the opinions of a handful of people. Any prediction that is returned by this algorithm is unherently incorrect, but it purely represents a mapping of the original paper's authors' own beauty standards - not mine!
+
+And please, use data and AI for good!
+
